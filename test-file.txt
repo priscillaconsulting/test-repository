@@ -1,3 +1,54 @@
 test
 
-test 2
+
+&gt; (if you are based in a country where the primary language is not English) 
+please provide a one minute mp3 recording of you reading your explanation
+
+
+------------------------------------------------------
+I have 8 years experience in software development. I have graduate the university in 2007
+(computer science department 2003-2007). I was a team member in the ACM (http://www.acm.org)
+programming contest of my university. I like software architectures, design paterns, 
+and algorithms. In 2008 I have graduate the master class in databases ane e-commerce.
+
+As work experience, I can mention:
+ - 2006 - 2008 junior programmer at Softvision http://softvision.com/: .NET, ASP, MSSQL Server. 
+ My responsabilities were to implement the codding specifications.
+ - 2008 - 2010 senior programer at Softvision, .NET, ASP, MSSQL Server. My responsabilities 
+ were to design the software architecture, to breakdown the project into small tasks, estimate
+ the implementation time for each task, implement them, and send a daily status to the client.
+ - 2011 - now: Manager at Priscilla Consulting. This is my own company, so I have many 
+ responsabilities, such as: discussions with the clients, analyze the client needs, propose
+ a solution, design the solution in a technical way, implement & test the solution. 
+ 
+I am new on Elance, so I am able to present only projects from my portofolio, 
+not projects implemented on Elance. You can see a list of developed projects at:
+http://www.priscilla-consulting.com/proiecte/portofoliu, but there are many project which
+I was unable to publish on my site. I have integrated electronic coin API's such as: 
+Perfect Money, Liberty Reserve, CashU, OkPay, MTGox Bitcoin. I have worked with SOAP services,
+CURL library, XML, image processing, custom MySQL queries, sql query performance improvments,
+etc. The online exchange project produces the more electrifying results for me.
+
+github repository:
+------------------------------------------------------
+https://github.com/priscillaconsulting/test-project
+
+suggest a platform and rationale for it:
+------------------------------------------------------
+I suggest CodeIgniter as the development platform. It is a MVC framework and it is Object Oriented.
+I am very familiar with it, so I will be very productive in this environment.
+There are a lot of good documentation, it is well structured, into three main concepts: 
+  - models: php classes, used in order to manage tabase data
+  - views: html or php files, used in order to display data
+  - controllers: php classes, used in order implement the business logic of the application.
+There are auxiliary concepts such as:
+  - helpers: files where are defined plain php functions, in a procedural way
+  - libraries: php classes which can be used in many way, for instance as wrappers over external APIs, etc
+  - hooks, configs, third party classes, etc
+  
+Ask any questions you may have!
+------------------------------------------------------
+I am very curious to see the project "big picture" and project tasks.
+
+
+ 
