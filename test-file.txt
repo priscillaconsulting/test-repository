@@ -4,17 +4,17 @@ Professional, Efficient Web Developer
 ------------------------------------------------------
 
 ------------------------------------------------------
-I have 8 years experience in software development. I have graduate the university in 2007
-(computer science department 2003-2007). I was a team member in the ACM (http://www.acm.org)
-programming contest of my university. I like software architectures, design paterns, 
-and algorithms. In 2008 I have graduate the master class in databases ane e-commerce.
+I have 8 years experience in Software Development. I have graduated the University in 2007
+(Computer Science Department 2003-2007). I was a team member in the ACM (http://www.acm.org)
+programming contest of my University. I like Software Architectures, Design Paterns, 
+and Algorithms. In 2008 I have graduated the Master Class in Databases ane ECommerce.
 
 As work experience, I can mention:
- - 2006 - 2008 junior programmer at Softvision http://softvision.com/: .NET, ASP, MSSQL Server. 
+ - 2006 - 2008 junior developer at Softvision http://softvision.com/: .NET, ASP, MSSQL Server. 
  My responsabilities were to implement the codding specifications.
- - 2008 - 2010 senior programer at Softvision, .NET, ASP, MSSQL Server. My responsabilities 
- were to design the software architecture, to breakdown the project into small tasks, estimate
- the implementation time for each task, implement them, and send a daily status to the client.
+ - 2008 - 2010 senior developer at Softvision, .NET, ASP, MSSQL Server. My responsabilities 
+ were to design the software architecture, to breakdown the project into small tasks, to estimate
+ the implementation time for each task, to implement them, and ro send a daily status to the client.
  - 2011 - now: Manager at Priscilla Consulting. This is my own company, so I have many 
  responsabilities, such as: discussions with the clients, analyze the client needs, propose
  a solution, design the solution in a technical way, implement & test the solution. 
